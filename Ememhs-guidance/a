@@ -1,0 +1,44 @@
+[33mcommit 50c60b43b560232ef73e6bc0fd5511d5cd47462e[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Sigfredo <volkswagenjetta25@gmail.com>
+Date:   Thu May 1 23:09:08 2025 +0800
+
+    STUDENT 50%
+
+[33mcommit ffe0f487361a6d9305956c7e90f418d207ad8319[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Carl Navid <156288971+BelowZeroPortfolio@users.noreply.github.com>
+Date:   Mon Apr 28 22:27:22 2025 +0800
+
+    Update UI on the index.php
+
+[33mcommit e53cb77815b1b8fc5b531d9fb9f555e3dd752497[m
+Author: Carl Navid <156288971+BelowZeroPortfolio@users.noreply.github.com>
+Date:   Mon Apr 28 22:26:34 2025 +0800
+
+    Update the UI in the register.php
+
+[33mcommit dd840738ef2fa196a6f899b108c1ffa9e2bec912[m
+Author: Sigfredo <volkswagenjetta25@gmail.com>
+Date:   Mon Apr 28 19:29:18 2025 +0800
+
+    Guidance System || Students Registration and Login
+
+[33mcommit 440e34fd1519089021edf0c95df19ba3e96df415[m
+Merge: 84b69d7 e93c638
+Author: Sigfredo <volkswagenjetta25@gmail.com>
+Date:   Mon Apr 28 11:25:00 2025 +0800
+
+    Merge branch 'main' of https://github.com/petitesnorlax25/EMEMHS-Guidance-System
+    necessary
+    especially if it merges an updated upstream into a topic branch.
+
+[33mcommit e93c638a46daff7362d461a22c49eb4c0c885aeb[m
+Author: petitesnorlax25 <volkswagenjetta25@gmail.com>
+Date:   Mon Apr 28 11:17:38 2025 +0800
+
+    Initial commit
+
+[33mcommit 84b69d75a80b6a2d0c084dc75721b82e2e947f1b[m
+Author: Sigfredo <volkswagenjetta25@gmail.com>
+Date:   Mon Apr 28 10:34:34 2025 +0800
+
+    Commit 1
